@@ -4,3 +4,13 @@
    
    
    ![Alt Text](https://github.com/JohnbelMDev/To-Do-List/blob/master/Todolist.gif)
+
+
+   Link to project: https://thirsty-blackwell-4f8905.netlify.app/
+   
+   Tech used: HTML, CSS, JAVASCRIPT.
+   
+   How's It's Made:
+   
+      ![Alt Text](https://github.com/JohnbelMDev/To-Do-List/blob/master/Task.png)
+      
