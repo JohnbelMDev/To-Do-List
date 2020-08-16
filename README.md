@@ -12,5 +12,5 @@
    
    How's It's Made:
    
-      ![Alt Text](https://github.com/JohnbelMDev/To-Do-List/blob/master/Task.png)
+   ![Alt Text](https://github.com/JohnbelMDev/To-Do-List/blob/master/Task.png)
       
